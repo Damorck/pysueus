@@ -7,5 +7,7 @@ Dependecies
 Python 3.6.X
 
 Modules:
--pydub
--PIL
+
+pydub
+
+PIL
